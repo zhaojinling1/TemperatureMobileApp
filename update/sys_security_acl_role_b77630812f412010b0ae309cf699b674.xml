@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 02:55:34</sys_created_on>
+        <sys_id>b77630812f412010b0ae309cf699b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_544093_temperatu_temperaturedetails.admin</sys_name>
+        <sys_package display_value="Temperature" source="x_544093_temperatu">13a3f48d2f012010b0ae309cf699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temperature">13a3f48d2f012010b0ae309cf699b6fd</sys_scope>
+        <sys_security_acl display_value="x_544093_temperatu_temperaturedetails">fb7630812f412010b0ae309cf699b671</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b77630812f412010b0ae309cf699b674</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 02:55:34</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

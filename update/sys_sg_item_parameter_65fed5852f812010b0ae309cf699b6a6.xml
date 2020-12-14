@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Temper</name>
+        <parent>7f8e11892f812010b0ae309cf699b6c0</parent>
+        <parent_table>sys_sg_data_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 05:52:22</sys_created_on>
+        <sys_id>65fed5852f812010b0ae309cf699b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Temper</sys_name>
+        <sys_package display_value="Temperature" source="x_544093_temperatu">13a3f48d2f012010b0ae309cf699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temperature">13a3f48d2f012010b0ae309cf699b6fd</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_65fed5852f812010b0ae309cf699b6a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 05:52:22</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

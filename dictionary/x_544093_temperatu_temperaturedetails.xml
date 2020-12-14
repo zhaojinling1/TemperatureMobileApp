@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TemperatureDetails" max_length="40" name="x_544093_temperatu_temperaturedetails" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Cardid" max_length="40" name="cardid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="state" type="string">
+            <choice>
+                <element inactive_on_update="false" label="異常温度承認待ち" sequence="0" value="awaiting"/>
+                <element inactive_on_update="false" label="異常温度承認済み" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="異常温度承認されない" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="正常温度なのでクローズ" sequence="3" value="closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Temperature" max_length="40" name="temperature" type="string"/>
+    </element>
+</database>

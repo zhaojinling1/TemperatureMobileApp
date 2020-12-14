@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Create New">7916fd492fc12010b0ae309cf699b6c4</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <multi_select>false</multi_select>
+        <name>カード番号</name>
+        <order>1</order>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 07:39:14</sys_created_on>
+        <sys_id>de27f9892fc12010b0ae309cf699b6a9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>カード番号</sys_name>
+        <sys_package display_value="Temperature" source="x_544093_temperatu">13a3f48d2f012010b0ae309cf699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temperature">13a3f48d2f012010b0ae309cf699b6fd</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_de27f9892fc12010b0ae309cf699b6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 08:07:58</sys_updated_on>
+        <table_name/>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=de27f9892fc12010b0ae309cf699b6a9"/>
+</record_update>

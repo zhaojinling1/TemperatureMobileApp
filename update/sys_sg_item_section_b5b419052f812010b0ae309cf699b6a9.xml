@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <data_item/>
+        <destination_screen display_value="My Temperature Datails">3c4311c12f812010b0ae309cf699b60e</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 05:07:36</sys_created_on>
+        <sys_id>b5b419052f812010b0ae309cf699b6a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Temperature</sys_name>
+        <sys_package display_value="Temperature" source="x_544093_temperatu">13a3f48d2f012010b0ae309cf699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temperature">13a3f48d2f012010b0ae309cf699b6fd</sys_scope>
+        <sys_update_name>sys_sg_item_section_b5b419052f812010b0ae309cf699b6a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 05:07:36</sys_updated_on>
+        <table/>
+        <title>My Temperature</title>
+        <visible_condition/>
+    </sys_sg_item_section>
+</record_update>

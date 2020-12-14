@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>cardid-41927,name-22124,temperature-32753,sys_created_on-7686,state-39951,cardid-39952,sys_updated_on-39954</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"ViewGroup","Margin":{},"Id":12259,"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"cardid","Id":41927}]},{"Type":"Text","Margin":{"Top":8},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"name","Id":22124},{"Type":"ViewGroup","Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E3","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${temperature}","Id":32752},{"Type":"Text","Margin":{},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"temperature","Id":32753}],"Margin":{"Top":8},"Id":12261},{"Type":"ViewGroup","Margin":{"Top":4},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E4","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${sys_created_on}","Id":7685},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"sys_created_on","Id":7686}],"Id":12262},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E5","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${state}","Id":39950},{"Type":"Text","Margin":{"Right":12},"studio_template_field_id":"E5","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"CellId":"state","Id":39951},{"Type":"Text","BackgroundColor":"#d1d6d8","Height":12,"Width":1,"Margin":{"Right":12},"TextColor":"#d1d6d8","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular"},"CellId":"cardid","Id":39952},{"Type":"Text","Margin":{"Right":8},"studio_template_field_id":"E6","studio_template_is_label":true,"TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${sys_updated_on}","Id":39953},{"Type":"Text","studio_template_field_id":"E6","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"bold","Size":13},"CellId":"sys_updated_on","Id":39954}],"Id":12263}],"studio_card_id":"ab9d601d23412300a8ed7f4fc7bf65d4","Id":28090}</item_view_json>
+        <name>My Temperature Datails Header Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 05:01:15</sys_created_on>
+        <sys_id>bc4359c12f812010b0ae309cf699b676</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>My Temperature Datails Header Item View</sys_name>
+        <sys_package display_value="Temperature" source="x_544093_temperatu">13a3f48d2f012010b0ae309cf699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temperature">13a3f48d2f012010b0ae309cf699b6fd</sys_scope>
+        <sys_update_name>sys_sg_item_view_bc4359c12f812010b0ae309cf699b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-14 04:59:46</sys_updated_on>
+        <table>x_544093_temperatu_temperaturedetails</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc4359c12f812010b0ae309cf699b676"/>
+</record_update>

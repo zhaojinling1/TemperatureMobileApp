@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete">f66b25c12fc12010b0ae309cf699b6ba</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>trailing_swipe</location>
+        <name>Delete</name>
+        <order>10</order>
+        <parent>f84359c12f812010b0ae309cf699b681</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 07:20:53</sys_created_on>
+        <sys_id>c2333dc52fc12010b0ae309cf699b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="Temperature" source="x_544093_temperatu">13a3f48d2f012010b0ae309cf699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temperature">13a3f48d2f012010b0ae309cf699b6fd</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c2333dc52fc12010b0ae309cf699b610</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 07:20:53</sys_updated_on>
+        <table>x_544093_temperatu_temperaturedetails</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2333dc52fc12010b0ae309cf699b610"/>
+</record_update>

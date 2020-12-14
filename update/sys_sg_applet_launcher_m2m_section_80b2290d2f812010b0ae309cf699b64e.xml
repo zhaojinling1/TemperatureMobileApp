@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Temperature">83245dc12f812010b0ae309cf699b618</applet_launcher>
+        <order>20</order>
+        <section display_value="Specified Temperature">84b2290d2f812010b0ae309cf699b64b</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-11 06:08:39</sys_created_on>
+        <sys_id>80b2290d2f812010b0ae309cf699b64e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Temperature" source="x_544093_temperatu">13a3f48d2f012010b0ae309cf699b6fd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temperature">13a3f48d2f012010b0ae309cf699b6fd</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_80b2290d2f812010b0ae309cf699b64e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-11 06:08:39</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>
